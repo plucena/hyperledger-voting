@@ -1,6 +1,8 @@
 # Create a fair evoting application to ensure correct election results with Hyperledger Fabric and IBM Blockchain Platform
+**NOTE**: This developer pattern creates a blockchain network on *IBM Blockchain Platform version **2.5*** using the *Hyperledger Fabric version **1.4***.
 
-> **NOTE**: This developer pattern creates a blockchain network on *IBM Blockchain Platform version **2.5*** using the *Hyperledger Fabric version **1.4***.
+  <img src="diagram.png">
+
 
 <br>
 <p align="center">
